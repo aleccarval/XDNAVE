@@ -5,8 +5,8 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
 	  "src": "Construct2",
       "projectGuid": "00000000-0000-0000-0000-000000000000",
-	  "lastModifiedDate": 1541526212000,
-      "creationDate": 1541526212000
+	  "lastModifiedDate": 1541809452000,
+      "creationDate": 1541809452000
     },
     "sourceDirectory": "www",
     "startFile": "index.html",
