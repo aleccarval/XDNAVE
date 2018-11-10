@@ -5,8 +5,8 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
 	  "src": "Construct2",
       "projectGuid": "00000000-0000-0000-0000-000000000000",
-	  "lastModifiedDate": 1541809452000,
-      "creationDate": 1541809452000
+	  "lastModifiedDate": 1541811513000,
+      "creationDate": 1541811513000
     },
     "sourceDirectory": "www",
     "startFile": "index.html",
@@ -63,7 +63,7 @@
         "cordovaCLIVersion_": "?",
         "crosswalkVersion_": "?",
         "preferences_": {
-          "android-minSdkVersion": "16",
+          "android-minSdkVersion": "19",
           "android-targetSdkVersion": "21",
           "android-installLocation": "auto",
 		  "android-signed": true,
