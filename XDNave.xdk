@@ -64,7 +64,7 @@
         "crosswalkVersion_": "?",
         "preferences_": {
           "android-minSdkVersion": "0",
-          "android-targetSdkVersion": "21",
+          "android-targetSdkVersion": "28",
           "android-installLocation": "auto",
 		  "android-signed": true,
 		  "Fullscreen": true,
